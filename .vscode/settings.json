@@ -22,5 +22,6 @@
     "rust-analyzer.linkedProjects": [
         "p001/Cargo.toml",
         "p002/Cargo.toml",
+        "p003/Cargo.toml",
       ]
 }
